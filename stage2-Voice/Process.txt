@@ -1,0 +1,4 @@
+record sound of individual
+convert to wav file online
+upload to drive
+predict
